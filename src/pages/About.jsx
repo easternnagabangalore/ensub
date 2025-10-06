@@ -1,6 +1,6 @@
 import { motion, useAnimation } from "framer-motion";
 import { useEffect, useState } from "react";
-import heroBg from "../assets/hero-bg.JPG";
+import heroBg from "../assets/hero-bg.jpg";
 
 export default function AboutUs() {
   const milestones = [
