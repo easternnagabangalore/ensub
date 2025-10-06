@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import { Link } from "react-router-dom";
 import { useState } from "react";
-import heroBg from "../assets/hero-bg.JPG";
+import heroBg from "../assets/hero-bg.jpg";
 
 export default function Home() {
   const [openIndex, setOpenIndex] = useState(null);
