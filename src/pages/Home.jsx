@@ -133,7 +133,7 @@ export default function Home() {
 
       {/* Read More Button */}
       <a
-        href="#president-note" // link to your About section
+        href="/about" // link to your About section
         className="inline-block text-sm font-medium text-indigo-600 hover:text-indigo-800 transition-colors duration-200 border-b border-indigo-400"
       >
         Read More →
