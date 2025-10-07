@@ -132,12 +132,13 @@ export default function Home() {
       </p>
 
       {/* Read More Button */}
-      <a
-        href="/about" // link to your About section
+      
+        <Link
+        to="/about" // link to your About section
         className="inline-block text-sm font-medium text-indigo-600 hover:text-indigo-800 transition-colors duration-200 border-b border-indigo-400"
-      >
+          >
         Read More →
-      </a>
+      </Link>
     </motion.div>
   </div>
 </section>
