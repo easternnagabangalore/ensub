@@ -184,7 +184,7 @@ export default function AboutUs() {
 
       <section id="about" className="bg-gray-50 py-8">
   <div className="max-w-5xl mx-auto px-6 py-8">
-    <h2 id="president-note" className="text-3xl font-bold text-center text-indigo-700 mb-8">
+    <h2 className="text-3xl font-bold text-center text-indigo-700 mb-8">
     A Note from Our President
     </h2>
 
